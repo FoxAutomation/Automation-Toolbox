@@ -1,8 +1,8 @@
-# 🧰 Automation-Toolbox
+#  Automation-Toolbox
 
 A collection of high-quality, production-ready Python automation scripts. This repository serves as a technical demonstration of clean coding practices, efficient logic, and robust error handling.
 
-## 📂 Included Scripts
+##  Included Scripts
 
 ### 1. `site_sentinel.py`
 **Website Health & Speed Check**
@@ -23,7 +23,7 @@ A collection of high-quality, production-ready Python automation scripts. This r
 
 ---
 
-## 🛠️ Usage
+##  Usage
 All scripts are designed to run with Python 3.
 ```bash
 pip install requests beautifulsoup4
